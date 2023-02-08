@@ -1,9 +1,11 @@
 body{
   font-family:"Montserrat";
+
 }
 h1, h2, h3, h4, h5, h6{
   font-family: 'Montserrat', sans-serif;
 }
+
 
 .colored-section{
   background-color: #ff4c68;
@@ -30,11 +32,11 @@ h1, h2, h3, h4, h5, h6{
 
  /* Navigation bar */
  .navbar{
-   padding: 0 0 4.5rem;
+   padding: 0 0 5rem;
  }
  .navbar-brand{
    font-family: "Ubuntu";
-   font-size: 2.5rem;
+  font-size: 6rem;
    font-weight: bold;
  }
  .nav-item{
